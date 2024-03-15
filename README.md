@@ -39,8 +39,6 @@ Check out the live demo [here](https://neptech-roshan.github.io/Nasa-Rocket/).
 ![Screenshot](screenshots/screenshot3.jpg)
 
 
-
-
 ## Acknowledgements
 
 Special thanks to me 'Roshan Patel' for cloning this project!
