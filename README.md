@@ -19,6 +19,10 @@ Nasa Rockets is a web application created to highlight the innovative rocket des
 - Contact form for inquiries.
 - Responsive design for various screen sizes.
 
+## Live Demo
+
+Check out the live demo [here](https://neptech-roshan.github.io/Nasa-Rocket/).
+
 ## How to Use
 
 1. Clone this repository to your local machine.
@@ -35,9 +39,6 @@ Nasa Rockets is a web application created to highlight the innovative rocket des
 ![Screenshot](screenshots/screenshot3.jpg)
 
 
-## Live Demo
-
-Check out the live demo [here](https://your-live-page-url.com).
 
 ## Acknowledgements
 
