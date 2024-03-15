@@ -34,9 +34,10 @@ Check out the live demo [here](https://neptech-roshan.github.io/Nasa-Rocket/).
 
 ## Screenshots
 
-![Screenshot](screenshots/screenshot1.jpg)
-![Screenshot](screenshots/screenshot2.jpg)
-![Screenshot](screenshots/screenshot3.jpg)
+![Screenshot](screenshots /screenshot1.jpg)
+![Screenshot](screenshots /screenshot2.jpg)
+![Screenshot](screenshots /screenshot3.jpg)
+
 
 
 
