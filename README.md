@@ -1,6 +1,6 @@
-# Nasa Rockets
+# NasaRockets
 
-This project is a website dedicated to showcasing various rockets designed and built by NASA.
+This project is a website dedicated to showcasing various rockets . 
 
 ## Introduction
 
@@ -42,6 +42,8 @@ Check out the live demo [here](https://neptech-roshan.github.io/Nasa-Rocket/).
 ## Acknowledgements
 
 Special thanks to me 'Roshan Patel' for cloning this project!
+Just name this project as Nasa Project, there is no any link between Nasa with this project. 
+
 
 ## License
 
