@@ -21,7 +21,7 @@ Nasa Rockets is a web application created to highlight the innovative rocket des
 
 ## Live Demo
 
-Check out the live demo [here](https://neptech-roshan.github.io/Nasa-Rocket/).
+Check out the live demo [here](https://roshan-metrix.github.io/Nasa-Rocket/)
 
 ## How to Use
 
