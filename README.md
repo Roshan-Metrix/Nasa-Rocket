@@ -34,9 +34,9 @@ Check out the live demo [here](https://roshan-metrix.github.io/Nasa-Rocket/)
 
 ## Screenshots
 
-![Screenshot](./screenshots/screenshot1.jpg)
-![Screenshot](./screenshots/screenshot2.jpg)
-![Screenshot](./screenshots/screenshot3.jpg)
+![Screenshot](../screenshots/screenshot1.jpg)
+![Screenshot](../screenshots/screenshot2.jpg)
+![Screenshot](../screenshots/screenshot3.jpg)
 
 
 ## Acknowledgements
